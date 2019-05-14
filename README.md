@@ -4,6 +4,7 @@ Cursos da [formação Angular](https://cursos.alura.com.br/formacao-angular), di
 ## Webpack: Manipulando módulos na sua webapp:
 - [X] Introdução
 - [X] Preparando o build de produção
+- [X] Webpack Dev Server e configuração
 
 ## Running the project:
 ### Installing dependencies:
