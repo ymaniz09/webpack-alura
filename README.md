@@ -5,6 +5,7 @@ Cursos da [formação Angular](https://cursos.alura.com.br/formacao-angular), di
 - [X] Introdução
 - [X] Preparando o build de produção
 - [X] Webpack Dev Server e configuração
+- [X] Tratando arquivos CSS como módulos
 
 ## Running the project:
 ### Installing dependencies:
